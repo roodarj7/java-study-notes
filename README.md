@@ -1,19 +1,15 @@
-# Java Study Notes
+#  Notas de Estudo & Evolução em Java
 
-Welcome to my Java learning repository! Here I document my progress, coding exercises, and notes as I dive deeper into the Java ecosystem.
+Este repositório documenta minha jornada de aprendizado e a evolução técnica na linguagem Java. Aqui concentro exercícios práticos, algoritmos e anotações de estudo.
 
-## 📚 Topics Covered
-This repository is organized by topics:
+##  Tecnologias e Conceitos
+* **Linguagem:** Java 17+
+* **Conceitos:** Orientação a Objetos (POO), Polimorfismo, Herança.
+* **Ferramentas:** Git, IntelliJ IDEA.
 
-- **Logic & Algorithms:** Basic syntax, loops, and conditional structures.
-- **OOP (Object-Oriented Programming):** Encapsulation, Inheritance, Polymorphism, and Abstraction.
-- **Data Structures:** Lists, Arrays, and Collections.
-- **Good Practices:** Clean Code principles I'm applying.
+##  Estrutura do Repositório
+O código está organizado por tópicos para facilitar a consulta:
+* `/basic-syntax`: Estruturas de controle e loops.
+* `/oop-concepts`: Exemplos práticos de classes e objetos.
+* `/data-structures`: Listas e coleções.
 
-## 🚀 Tech Stack
-- **Language:** Java 17+
-- **IDE:** IntelliJ IDEA / Visual Studio Code (VScode)
-- **Tools:** Git
-
----
-*This repository is constantly updated as I advance in my Computer Science degree.*
